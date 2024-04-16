@@ -4,6 +4,9 @@
     display: flex;
     justify-content: space-around;
 }
+body{
+    font-family: "Poppins", sans-serif;
+}
 
 .lista{
     display: inline-block;

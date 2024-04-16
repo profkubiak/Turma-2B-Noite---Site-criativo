@@ -3,4 +3,7 @@ header{
     color: aliceblue;
 }
 
-.cabecalho
+.cabecalho-imagem 
+{
+    width: 20%;
+}

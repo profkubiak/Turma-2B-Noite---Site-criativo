@@ -5,6 +5,10 @@
     justify-content: space-around;
 }
 
+.lista{
+    display: inline-block;
+}
+
 .cabecalho-imagem 
 {
     width: 10%;

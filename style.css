@@ -1,6 +1,7 @@
 .cabecalho-itens{
     background-color: brown;
     color: aliceblue;
+    display: flex;
 }
 
 .cabecalho-imagem 
